@@ -624,4 +624,8 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
+        - title: 可汗学院
+          url: https://www.khanacademy.org/
+          logo: https://api.iowen.cn/favicon/www.khanacademy.org.png?refresh=true
+          description: 开源免费的网络课堂。
         
