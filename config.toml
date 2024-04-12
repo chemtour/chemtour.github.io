@@ -1,6 +1,6 @@
 baseURL               = "https://chemtour.github.io"
 languageCode          = "zh-CN"
-title                 = "Chemtour导航"
+title                 = "AIHG导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -9,13 +9,13 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    author        = "shenweiyan"
-    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
-    upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
-    about         = "https://chemtour.github.io/about/"	          # 左侧导航栏的"关于导航"页面(./about)
+    author        = "AIHG"
+    description   = "先知起航 材化先知"
+    upload        = "https://adu8.top/apply"      # 左侧导航栏的"网站提交"
+    about         = "https://adu8.top/about"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "AIHG 材化先知"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -45,7 +45,14 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：chemtour@gmx.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
+    copyright = '<a id="adu8" href="https://www.adu8.top"><img src="./template/poto/xzwx2023.jpg"  width="100" height="100" title="先知微信公众号" alt="pPOEvJs.jpg" border="3" /></a>
+<a href="https://www.adu8.top"><img src="./template/poto/xztt2023.png"  width="100" height="100" title="先知今日头条号" alt="pPOEvJs.jpg" border="3" /></a>
+<br>
+Copyright &copy; 2023 - {year} By <a href="/">先知起航</a>.  All Rights Reserved.
+<br>本网站使用CC BY-NC-ND 4.0协议共享，链接均采集自互联网，仅收录网站，不对其链接网站内容或交易负责。
+<br>本网站中链接所得的网页，以及网页中所有内容，均系第三方网站制作提供，所有权归其所有。
+如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：chemtour@gmx.com 
+<br><a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2023047226号-1</a>'
 
 [taxonomies]
   tag = "tags"

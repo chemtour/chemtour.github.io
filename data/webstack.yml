@@ -3,35 +3,24 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 章鱼猫先生的语雀知识库。
-    - title: Knowledge-Garden
-      logo: garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden/
-      description: All in GitHub Discussions.
-    - title: 知识花园
+    - title: 先知起航
       logo: octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
-      logo: octocat.png
-      url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
+      url: https://adu8.top
+      description: 材化先知主页。
     - title: Markdown2Html
       logo: mdx.png
       url: https://md.bioitee.com/
       description: 公众号 Markdown 排版利器。
-    - title: Lark 云文档
-      logo: lark_suite.webp
-      url: https://shenweiyan.sg.larksuite.com/
-      description: 先进企业协作与管理平台。
-    - title: 关注我们
+    - title: 扫码关注公众号
       logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+      url: https://adu8.top
+      qrcode: https://adu8.top/template/poto/xzwx2023.jpg
+      description: 微信公众号：材化先知！
+    - title: 扫码关注头条
+      logo: 关注.jpg
+      url: https://adu8.top
+      qrcode: https://adu8.top/template/poto/xztt2023.png
+      description: 今日头条：材化先知
 
 - taxonomy: 常用推荐
   icon: far fa-star
@@ -203,7 +192,7 @@
           url: https://www.51job.com/
           description: 51JOB - 前程无忧招聘网。
 
-- taxonomy: 生信科研
+- taxonomy: 材化科研
   icon: fas fa-dna
   list:
     - term: 在线科研

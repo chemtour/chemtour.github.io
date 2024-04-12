@@ -2,15 +2,29 @@
   icon: fa fa-home
   link: "./"
 
-- item: 作者
+- item: 共鸣
   icon: fa fa-book
-  link: https://weiyan.cc/
+  link: https://adu8.top/blog/
 
-- item: 关于
+- item: 工具
   icon: fa fa-cog
   link: ""
   list:
-    - name: 教程
-      url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
-    - name: 源码
+    - name: 分子式
+      url: https://www.chemicalbook.com/StructuredSearch.htm
+      icon: https://api.iowen.cn/favicon/www.chemicalbook.com.png
+    - name: 流程图
       url: https://github.com/shenweiyan/WebStack-Hugo
+      icon: https://api.iowen.cn/favicon/adu8.top.png
+    - name: 定位
+      url: https://adu8.top/map/
+      icon: https://api.iowen.cn/favicon/adu8.top.png
+    - name: 云
+      url: https://adu8.top:5266/
+      icon: https://api.iowen.cn/favicon/adu8.top.png
+    - name: 密保
+      url: https://www.adu8.top:9443/
+      icon: https://api.iowen.cn/favicon/adu8.top.png
+    - name: 共享
+      url: https://adu8.top/share/
+      icon: https://api.iowen.cn/favicon/adu8.top.png
