@@ -1,10 +1,10 @@
 ---
-title: "网站文档"
+title: "doc shanghaiamino"
 date: 2020-07-28T19:27:08+08:00
 draft: false
-tags: ["companyinf"]
-series: ["companyseries"]
-categories: ["company"]
+tags: ["comp","shanghai"]
+sris: ["公司信息"]
+cats: ["ltds"]
 ---
 
 # <center>[上海安诺简介](https://www.amino-chem.cn/)</center>

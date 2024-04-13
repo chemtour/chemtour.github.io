@@ -48,6 +48,11 @@ publishDir            = "public"				# 站点静态文件保存目录
     copyright = "Copyright &copy; 2023 - {year} By 先知起航.  All Rights Reserved.<br>本网站使用CC BY-NC-ND 4.0协议共享，链接均采集自互联网，仅收录网站，不对其链接网站内容或交易负责。 <br>本网站中链接所得的网页，以及网页中所有内容，均系第三方网站制作提供，所有权归其所有。 如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：chemtour@gmx.com <br>[浙ICP备2023047226号-1](https://beian.miit.gov.cn/)"
 
 [taxonomies]
-  tag = "tags"
-  series = "series"
-  category = "categories"
+  category = 'cats'
+  series = 'sris'
+  tag = 'tags'
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
