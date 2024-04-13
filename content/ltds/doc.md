@@ -3,18 +3,27 @@ title: "doc shanghaiamino"
 date: 2020-07-28T19:27:08+08:00
 draft: false
 tags: ["comp","shanghai"]
-sris: ["公司信息"]
 cats: ["ltds"]
 ---
 
 # <center>[上海安诺简介](https://www.amino-chem.cn/)</center>
 -------------------------------------------------------
 
-[toc]
 
-> forwin
-just
-for 
++ [核心技术](#核心技术)
+    + [催化加氢还原](#催化加氢还原)
+    + [间歇催化加氢还原](#间歇催化加氢还原)
+    + [连续催化加氢还原](#连续催化加氢还原)
++ [数字化经营、高质量发展](#数字化经营高质量发展)
++ [以人为本](#以人为本)
++ [企业荣誉](#企业荣誉)
+
+
+
+
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;adu8.top\&quot; modified=\&quot;2024-04-13T04:37:24.712Z\&quot; agent=\&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0\&quot; etag=\&quot;Mjp1ylgfnlDk46szKWmS\&quot; version=\&quot;22.1.7\&quot;&gt;\n  &lt;diagram name=\&quot;Page-1\&quot; id=\&quot;OMJg_7pO8rR-NUq70MtP\&quot;&gt;\n    &lt;mxGraphModel dx=\&quot;1426\&quot; dy=\&quot;769\&quot; grid=\&quot;1\&quot; gridSize=\&quot;10\&quot; guides=\&quot;1\&quot; tooltips=\&quot;1\&quot; connect=\&quot;1\&quot; arrows=\&quot;1\&quot; fold=\&quot;1\&quot; page=\&quot;1\&quot; pageScale=\&quot;1\&quot; pageWidth=\&quot;827\&quot; pageHeight=\&quot;1169\&quot; math=\&quot;0\&quot; shadow=\&quot;0\&quot;&gt;\n      &lt;root&gt;\n        &lt;mxCell id=\&quot;0\&quot; /&gt;\n        &lt;mxCell id=\&quot;1\&quot; parent=\&quot;0\&quot; /&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-1\&quot; value=\&quot;\&quot; style=\&quot;ellipse;whiteSpace=wrap;html=1;\&quot; vertex=\&quot;1\&quot; parent=\&quot;1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;350\&quot; y=\&quot;360\&quot; width=\&quot;120\&quot; height=\&quot;80\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot; value=\&quot;Horizontal Tree Layout\&quot; style=\&quot;swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;resizable=0;containerType=tree;fontSize=12;\&quot; vertex=\&quot;1\&quot; parent=\&quot;1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;270\&quot; y=\&quot;170\&quot; width=\&quot;310\&quot; height=\&quot;160\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-3\&quot; value=\&quot;Root\&quot; style=\&quot;whiteSpace=wrap;html=1;\&quot; vertex=\&quot;1\&quot; parent=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot;&gt;\n          &lt;mxGeometry x=\&quot;40\&quot; y=\&quot;60\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-4\&quot; value=\&quot;Child 1\&quot; style=\&quot;whiteSpace=wrap;html=1;\&quot; vertex=\&quot;1\&quot; parent=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot;&gt;\n          &lt;mxGeometry x=\&quot;190\&quot; y=\&quot;20\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-5\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;\&quot; edge=\&quot;1\&quot; parent=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot; source=\&quot;zV07HPnr2qAXRTzS2Zqh-3\&quot; target=\&quot;zV07HPnr2qAXRTzS2Zqh-4\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-6\&quot; value=\&quot;Child 2\&quot; style=\&quot;whiteSpace=wrap;html=1;\&quot; vertex=\&quot;1\&quot; parent=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot;&gt;\n          &lt;mxGeometry x=\&quot;190\&quot; y=\&quot;100\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;zV07HPnr2qAXRTzS2Zqh-7\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;\&quot; edge=\&quot;1\&quot; parent=\&quot;zV07HPnr2qAXRTzS2Zqh-2\&quot; source=\&quot;zV07HPnr2qAXRTzS2Zqh-3\&quot; target=\&quot;zV07HPnr2qAXRTzS2Zqh-6\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n      &lt;/root&gt;\n    &lt;/mxGraphModel&gt;\n  &lt;/diagram&gt;\n&lt;/mxfile&gt;\n&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+
 
 
 
