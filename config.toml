@@ -49,7 +49,6 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [taxonomies]
   category = 'cats'
-  series = 'sris'
   tag = 'tags'
 
 [sitemap]
