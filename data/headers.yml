@@ -6,8 +6,12 @@
   icon: fa fa-book
   link: https://adu8.top/blog/
 
+- item: 导图
+  icon: fa fa-book
+  link: https://www.aihg.top/aihgindex.html
+
 - item: 工具
-  icon: fa fa-cog
+  icon: fa fa-anchor
   link: ""
   list:
     - name: 分子式
