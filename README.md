@@ -15,7 +15,7 @@
 
   
 
-- 站点：[https://www.aihg.top](https://www.aihg.top)
+- 站点：[https://hao.aihg.top](https://hao.aihg.top)
 
   
   
